@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ふたりなら",
+  "base_artist": "sui",
+  "createdAt": "2025-12-28T18:08:59.200558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふたりなら",
+      "artist": "Sui",
+      "has_synced": true,
+      "path": "select/01_ふたりなら_Sui.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりなら",
+      "artist": "sui",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりなら_sui.txt"
+    }
+  ]
+}
